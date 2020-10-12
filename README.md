@@ -1,6 +1,6 @@
 # HR-RS occlusion image dataset
 
-This dataset has now been moved to https://www.dropbox.com/sh/etdy8q1pjsyxnqd/AADd3EZSFsdeV-VNRF6J31j1a?dl=0.
+This dataset has now been moved to DropBox (https://www.dropbox.com/sh/etdy8q1pjsyxnqd/AADd3EZSFsdeV-VNRF6J31j1a?dl=0) and Baidu NetDisk (https://pan.baidu.com/s/1AioORkh7xuz_INrij9a63w, code:ub7j).
 
 This High-Resolution Remote sensing (HR-RS) occlusion image dataset is constructed by Shaohua Qiu, Gongjian Wen and Yaxiang Fan from NUDT.
 
